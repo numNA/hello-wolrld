@@ -1,2 +1,4 @@
 # hello-wolrld
-This is my first repository.
+
+Finally I met anew world a.k.a Github.
+It's so excited.
